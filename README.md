@@ -32,8 +32,8 @@ Watch the short clips below to see how LeetReviewer works:
 
 ### Track Problems
 
-https://github.com/Frida7771/about-leetreviewer/raw/main/media/track-problems.mp4
+![Track Problems](./media/track-problems.gif)
 
 ### Start Review
 
-https://github.com/Frida7771/about-leetreviewer/raw/main/media/start-review.mp4
+![Start Review](./media/start-review.gif)
