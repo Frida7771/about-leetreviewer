@@ -32,8 +32,8 @@ Watch the short clips below to see how LeetReviewer works:
 
 ### Track Problems
 
-![Track Problems](./media/track-problems.gif)
+![Track Problems](./media/add-via-list.gif)
 
 ### Start Review
 
-![Start Review](./media/start-review.gif)
+![Start Review](./media/review-problem.gif)
