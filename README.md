@@ -2,7 +2,6 @@
 
 This repository is for publishing release notes of **LeetReviewer**, and for collecting user feedback through GitHub Issues.
 
-> **Notice:** LeetReviewer is not open-source software, and this repository does not contain the source code.
 
 ## Links
 
