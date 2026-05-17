@@ -8,6 +8,7 @@ This repository is for publishing release notes of **LeetReviewer**, and for col
 - **Website:** [leetreviewer.com](https://leetreviewer.com)
 - **Issues:** Feature requests, bug reports, and other feedback
 - **Releases:** Release logs and change history
+- **App Store:** https://apps.apple.com/us/app/leetreviewer/id6764576784
 
 ## Contact
 
