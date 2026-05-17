@@ -26,14 +26,5 @@ LeetReviewer helps you retain what you solve on LeetCode through:
 
 Visit [leetreviewer.com](https://leetreviewer.com) to start using LeetReviewer or view the documentation.
 
-## Demo
 
-Watch the short clips below to see how LeetReviewer works:
 
-### Track Problems
-
-![Track Problems](./media/add-via-list.gif)
-
-### Start Review
-
-![Start Review](./media/review-problem.gif)
